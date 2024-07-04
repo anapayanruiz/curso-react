@@ -19,5 +19,11 @@
   "homepage": "https://github.com/anapayanruiz/curso-react#readme",
   "volta": {
     "node": "22.4.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
   }
 }
