@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anapayanruiz/curso-react/issues"
   },
-  "homepage": "https://github.com/anapayanruiz/curso-react#readme"
+  "homepage": "https://github.com/anapayanruiz/curso-react#readme",
+  "volta": {
+    "node": "22.4.0"
+  }
 }
