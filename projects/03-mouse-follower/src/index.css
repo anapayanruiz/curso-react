@@ -70,6 +70,6 @@ button:focus-visible {
   }
 }
 
-body.no-cursor {
+/* body.no-cursor {
   cursor: none;
-}
+} */
